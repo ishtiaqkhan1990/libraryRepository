@@ -9,6 +9,7 @@ public class Amazon_Registration_Test {
 public void registration()
 {
 	System.out.println(" ******= ");
+	System.out.println("ishtiaqkhan");
 }
 
 }
