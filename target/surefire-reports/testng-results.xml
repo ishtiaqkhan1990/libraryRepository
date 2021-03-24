@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-23T20:37:34 EDT" name="Surefire suite" finished-at="2021-03-23T20:37:34 EDT" duration-ms="49">
+    <groups>
+    </groups>
+    <test started-at="2021-03-23T20:37:34 EDT" name="Surefire test" finished-at="2021-03-23T20:37:34 EDT" duration-ms="49">
+      <class name="maven.ndjanuary.AmazonCartTest">
+        <test-method signature="buyItems()[pri:0, instance:maven.ndjanuary.AmazonCartTest@2f490758]" started-at="2021-03-23T20:37:34 EDT" name="buyItems" finished-at="2021-03-23T20:37:34 EDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyItems -->
+        <test-method signature="buyelEctronics()[pri:0, instance:maven.ndjanuary.AmazonCartTest@2f490758]" started-at="2021-03-23T20:37:34 EDT" name="buyelEctronics" finished-at="2021-03-23T20:37:34 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyelEctronics -->
+      </class> <!-- maven.ndjanuary.AmazonCartTest -->
+      <class name="maven.ndjanuary.AmazonLoginTest">
+        <test-method signature="adminLogin()[pri:0, instance:maven.ndjanuary.AmazonLoginTest@101df177]" started-at="2021-03-23T20:37:34 EDT" name="adminLogin" finished-at="2021-03-23T20:37:34 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminLogin -->
+        <test-method signature="amazonLogin()[pri:0, instance:maven.ndjanuary.AmazonLoginTest@101df177]" started-at="2021-03-23T20:37:34 EDT" name="amazonLogin" finished-at="2021-03-23T20:37:34 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonLogin -->
+        <test-method signature="clinetlogin()[pri:0, instance:maven.ndjanuary.AmazonLoginTest@101df177]" started-at="2021-03-23T20:37:34 EDT" name="clinetlogin" finished-at="2021-03-23T20:37:34 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clinetlogin -->
+      </class> <!-- maven.ndjanuary.AmazonLoginTest -->
+      <class name="maven.ndjanuary.Amazon_Registration_Test">
+        <test-method signature="registration()[pri:0, instance:maven.ndjanuary.Amazon_Registration_Test@166fa74d]" started-at="2021-03-23T20:37:34 EDT" name="registration" finished-at="2021-03-23T20:37:34 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registration -->
+      </class> <!-- maven.ndjanuary.Amazon_Registration_Test -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
